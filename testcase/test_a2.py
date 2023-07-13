@@ -6,9 +6,6 @@ def test_a4(login):
 def test_a5():
     print('用例a5不需要登录，即可执行操作')
 
-def test_a6():
-    print('用例a6不需要登录，即可执行操作')
-
 
 if __name__ == '__main__':
     pytest.main()
